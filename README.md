@@ -39,4 +39,3 @@ Use the following scripts in the specified order to achieve the mentioned result
 3. train.py to load and train the model.
 4. predict.py to load and evaluate the model.
 
-[Google Colab](https://colab.research.google.com/drive/10fB9pSFMSn1ETmYA2SxLwlxWGySZ5t4p?usp=sharing)
